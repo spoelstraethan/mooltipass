@@ -17,6 +17,10 @@
         {
           "vendorId": 5840,
           "productId": 2464
+        },
+        {
+          "vendorId": 1209,
+          "productId": 4321
         }
       ]
     },
